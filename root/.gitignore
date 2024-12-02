@@ -152,7 +152,10 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-./datasets
+datasets/
+*.csv
+*.zip
+
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
